@@ -2,3 +2,4 @@ pizza, UK
 pasta, UK
 Chicken, UK
 Gyros,  GR
+chicken nuggets, UK
